@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		182B7BC81DED1AD300E31356 /* DSHomeworkWeek13th */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSHomeworkWeek13th; sourceTree = BUILT_PRODUCTS_DIR; };
 		182B7BCB1DED1AD300E31356 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		182B7BD21DED1DCB00E31356 /* MaxHeap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MaxHeap.h; path = ../MaxHeap.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		182B7BCA1DED1AD300E31356 /* DSHomeworkWeek13th */ = {
 			isa = PBXGroup;
 			children = (
+				182B7BD21DED1DCB00E31356 /* MaxHeap.h */,
 				182B7BCB1DED1AD300E31356 /* main.cpp */,
 			);
 			path = DSHomeworkWeek13th;
